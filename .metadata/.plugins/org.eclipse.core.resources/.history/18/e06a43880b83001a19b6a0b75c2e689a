@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Solution {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		
+		try {
+		Integer one = Integer.valueOf(scan.nextInt());
+		Integer two = Integer.valueOf(scan.nextInt());
+		
+
+			System.out.println(one/two);
+		}catch(Exception e) {
+			System.out.println(e);
+		}
+
+	}
+
+}

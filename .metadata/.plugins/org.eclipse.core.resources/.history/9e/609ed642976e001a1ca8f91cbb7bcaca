@@ -1,0 +1,32 @@
+package teszt;
+
+public class Teglalap extends Sikidom {
+
+	private double a = 2;
+	
+	private double b = 4;
+	
+	public Teglalap (double a , double b) {
+		this.a = a; this.b = b;
+	}
+	
+	public double a() {
+		return a;
+	}
+	
+	public double b() {
+		return b;
+	}
+	
+	@Override
+	protected double keruletszamit() {
+		return 2*(a+b);
+	}
+
+	@Override
+	protected double teruletszamit() {
+		return a * b;
+	}
+    
+	 Sikidom.szam = 2;
+}

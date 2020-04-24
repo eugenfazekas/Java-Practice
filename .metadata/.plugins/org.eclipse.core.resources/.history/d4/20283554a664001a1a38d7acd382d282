@@ -1,0 +1,31 @@
+package teszt;
+
+import java.io.IOException;
+
+
+
+public class Teszt {
+
+    public static void main(String[] args) throws IOException {
+    	
+    	String a = new String("teszt");
+    	
+    	String b = "teszt";
+    	
+    	char h = '\u00c9';
+    	
+    	String e = "tekn"+ h +"c";
+    	
+    	boolean c = String.valueOf(a) == String.valueOf(b);
+    	
+    	boolean d = a.equals(b);
+    		
+    		System.out.println(c);
+    		
+    		System.out.println(d);
+    		
+    		System.out.println(h);
+    		
+    	}
+}
+

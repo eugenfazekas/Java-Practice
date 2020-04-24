@@ -1,0 +1,24 @@
+package teszt;
+
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+import java.util.PriorityQueue;
+import java.util.Scanner;
+
+class Priorities {
+
+	public List<Student> getStudents(List<String> events) {
+		
+		String event;
+		String[] students = new String[events.size()];
+		List<Student> studentsarray= new ArrayList<Student>();
+		
+		for (int i = 0; i< events.size(); i++)
+			 event = events.get(i); 
+		
+		return null;
+	}
+	
+	
+}

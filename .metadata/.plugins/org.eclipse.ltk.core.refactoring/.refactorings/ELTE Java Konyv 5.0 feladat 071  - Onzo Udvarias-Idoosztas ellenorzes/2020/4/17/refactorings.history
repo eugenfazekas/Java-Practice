@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;teszt.Priority&apos; to &apos;TimeSlice&apos;&#x0D;&#x0A;- Original project: &apos;ELTE Java Konyv 5.0 feladat 071  - Onzo Udvarias-Idoosztas ellenorzes&apos;&#x0D;&#x0A;- Original element: &apos;teszt.Priority&apos;&#x0D;&#x0A;- Renamed element: &apos;teszt.TimeSlice&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Priority&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;teszt{Priority.java[Priority" matchStrategy="1" name="TimeSlice" qualified="false" references="true" similarDeclarations="false" stamp="1587480878240" textual="false" version="1.0"/>
+</session>

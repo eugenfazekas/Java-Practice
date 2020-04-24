@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class Solution {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		int one;
+		int two;
+		
+		try {
+			if(scan.nextInt()<=Integer.MAX_VALUE) {
+		 one = scan.nextInt();
+		 two = scan.nextInt();
+			}else  {
+			one= Integer.valueOf("a");
+			two = Integer.valueOf("b");
+		}
+			
+
+			System.out.println(one/two);
+		}catch(Exception e) {
+			System.out.println(e);
+		}
+
+	}
+
+}

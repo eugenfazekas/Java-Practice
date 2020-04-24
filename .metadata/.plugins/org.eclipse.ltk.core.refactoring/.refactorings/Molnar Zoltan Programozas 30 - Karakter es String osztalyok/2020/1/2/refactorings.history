@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;v29&apos; to &apos;v30&apos;&#x0D;&#x0A;- Original project: &apos;Java Programozas Full 30 - Karakter es String osztalyok&apos;&#x0D;&#x0A;- Original element: &apos;Java Programozas Full 30 - Karakter es String osztalyok/src/v29&apos;&#x0D;&#x0A;- Renamed element: &apos;Java Programozas Full 30 - Karakter es String osztalyok/src/v30&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;v29&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;v29" name="v30" qualified="false" references="true" stamp="1578418008189" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,19 @@
+import java.util.ArrayList;
+
+public class ElsoProject {
+
+	public static void main(String[] args) {
+		
+				
+     ArrayList<Animal> animal = new ArrayList<Animal>();
+     Cat cat1 = new Cat();
+     animal.add(cat1);
+     
+     if(!animal.isEmpty()) {
+    	 System.out.println(animal);
+     }
+
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package teszt;
+
+public class MyCalculator {
+
+	public double power(int n, int p) {
+	
+		double pow = Math.pow(n, p);
+		
+		return pow;
+	}
+
+}

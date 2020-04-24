@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;teszt.ShowArray&apos; to &apos;CounterTrace&apos;&#x0D;&#x0A;- Original project: &apos;ELTE Java Konyv 5.0 feladat 089  - CounterTrace&apos;&#x0D;&#x0A;- Original element: &apos;teszt.ShowArray&apos;&#x0D;&#x0A;- Renamed element: &apos;teszt.CounterTrace&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ShowArray&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;teszt{ShowArray.java[ShowArray" matchStrategy="1" name="CounterTrace" qualified="false" references="true" similarDeclarations="false" stamp="1587642061435" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,26 @@
+package teszt;
+
+class Student {
+	private int Id;
+	private String Name;
+	private double Cgpa;
+	
+	
+	
+	public Student(int id, String name, double cgpa) {
+		Id = id;
+		Name = name;
+		Cgpa = cgpa;
+	}
+	public int getId() {
+		return Id;
+	}
+	public String getName() {
+		return Name;
+	}
+	public double getCgpa() {
+		return Cgpa;
+	}
+
+	
+}

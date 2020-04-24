@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Teszt36 1D Array&apos; to &apos;Teszt36  - 1D Array&apos;" description="Rename resource &apos;Teszt36 1D Array&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Teszt36 1D Array" name="Teszt36  - 1D Array" stamp="1586800060919" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Teszt - ArrayList&apos; to &apos;Teszt39 - ArrayList&apos;" description="Rename resource &apos;Teszt - ArrayList&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Teszt - ArrayList" name="Teszt39 - ArrayList" stamp="1586877326775" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;teszt.Main.java&apos; to &apos;WaitNotify.java&apos;&#x0D;&#x0A;- Original project: &apos;ELTE Java Konyv 5.0 feladat 076  - Wait &amp; Notify Szinkronizacio uzenetekkel&apos;&#x0D;&#x0A;- Original element: &apos;teszt.Main.java&apos;&#x0D;&#x0A;- Renamed element: &apos;teszt.WaitNotify.java&apos;" description="Rename compilation unit &apos;Main.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;teszt{Main.java" name="WaitNotify.java" references="false" stamp="1587485534318" version="1.0"/>
+</session>

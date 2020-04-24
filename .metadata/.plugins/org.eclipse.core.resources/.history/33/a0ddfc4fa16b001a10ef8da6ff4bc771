@@ -1,0 +1,35 @@
+package teszt;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Verem iv = new Verem();
+		
+		Verem dv = new Verem();
+		
+		Verem av = new Verem();
+		
+		try {
+			iv.push(5);
+			iv.push(6);
+			
+			dv.push(5.5);
+			dv.push(7.7);
+			
+			//av.push(new Autobusz());
+			//av.push(new Autobusz());
+			
+			int i = (Integer) iv.pop();
+			
+			double d = (Double) dv.pop();
+			
+			Autobusz a = (Autobusz) av.pop();
+			
+		}catch(Exception e) {
+			System.out.println(e);
+		}
+		
+	}
+
+}

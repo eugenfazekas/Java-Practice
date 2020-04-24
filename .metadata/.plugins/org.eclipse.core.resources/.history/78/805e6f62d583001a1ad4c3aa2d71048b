@@ -1,0 +1,46 @@
+package teszt;
+
+
+/**
+Démon szál indítás.
+
+@link.forrásfájl {@docRoot}/../data/thread/src DaemonThread.java
+@link.letöltés {@docRoot}/../data/thread DaemonThread.jar
+@since Java 2 Útikalauz programozóknak
+*/
+public class DaemonThread extends Thread {               // Démon szál osztálya
+  public void run() {                       // végtelen ciklusban
+    while (true) {                          // fut
+      System.out.println( getName() + " démon? " + isDaemon() );
+      try { sleep(500); } catch (InterruptedException e) {}
+    }
+  }
+
+static class Regular extends Thread {              // Általános szál
+  volatile boolean running = true;
+
+  public void run() {
+    while (running) {                       // fut, amíg csak kell
+      System.out.println( getName() + " démon? " + isDaemon() );
+      try { sleep(500); } catch (InterruptedException e) {}
+    }
+  }
+
+  public void finish() { running = false; } // leállítja a szálat
+}
+
+  static public void main(String s[]) {
+    Regular a;                              // szabályos szál
+    DaemonThread  b;                              // démon szál
+
+    a = new Regular();
+    b = new DaemonThread();
+    System.out.println("Szálak indítása");
+    a.start();                              // indítás,
+    b.setDaemon(true); b.start();           // démon beállítás
+
+    try { Thread.sleep(2000); } catch (InterruptedException e) {}
+    System.out.println("A sima szál(ak) leállítása");
+    a.finish();                             // az általános leáll
+  }
+}

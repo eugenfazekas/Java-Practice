@@ -1,0 +1,23 @@
+package teszt;
+
+public abstract class Sikidom {
+
+	private double kerulet;
+	protected abstract double keruletszamit();
+	public double kerulet() {
+		if(kerulet == 0 ) kerulet = keruletszamit();
+		return kerulet;
+	}
+	
+	private double terulet;
+	protected abstract double teruletszamit();
+	public double terulet() {
+		if(terulet == 0 ) terulet = teruletszamit();
+		return terulet;
+	}
+	
+	public static final  int szam () {
+		return 1;
+	}
+	
+}

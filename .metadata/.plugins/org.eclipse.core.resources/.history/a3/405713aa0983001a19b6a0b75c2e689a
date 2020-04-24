@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Solution {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		
+		int one = scan.nextInt();
+		int two = scan.nextInt();
+		
+		try {
+			System.out.println(one/two);
+		}catch(Exception e) {
+			System.out.println(e);
+		}
+
+	}
+
+}

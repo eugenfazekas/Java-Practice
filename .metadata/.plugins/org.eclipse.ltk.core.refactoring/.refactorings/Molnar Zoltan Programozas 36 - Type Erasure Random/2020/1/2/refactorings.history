@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;v00&apos; to &apos;v36&apos;&#x0D;&#x0A;- Original project: &apos;Java Programozas Full 36 - Type Erasure&apos;&#x0D;&#x0A;- Original element: &apos;Java Programozas Full 36 - Type Erasure/src/v00&apos;&#x0D;&#x0A;- Renamed element: &apos;Java Programozas Full 36 - Type Erasure/src/v36&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;v00&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;v00" name="v36" qualified="false" references="true" stamp="1578672945605" textual="false" version="1.0"/>
+</session>

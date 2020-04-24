@@ -1,0 +1,28 @@
+package teszt;
+
+import java.math.BigDecimal;
+import java.text.DecimalFormat;
+import java.util.Arrays;
+
+public class test {
+
+	public static void main(String[] args) {
+		
+		String pattern = ",000";
+		DecimalFormat df = new DecimalFormat(pattern);
+
+		String[] st = {"000.000",".12","0.12","10.21","4.0001"};
+		Double[] szam = new Double[st.length];
+		
+		for(int i = 0 ; i < st.length; ++i) {
+		 szam[i] =  Double.valueOf(st[i]);
+			}
+		
+		Arrays.sort(szam);
+		
+		for(double i = 0; i< szam.length; i++)
+			System.out.println(df.format(szam[(int) i])+" ");
+		}
+	}
+
+

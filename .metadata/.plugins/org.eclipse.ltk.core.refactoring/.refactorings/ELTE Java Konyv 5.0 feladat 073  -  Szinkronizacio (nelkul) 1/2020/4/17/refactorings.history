@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;teszt.Main&apos; to &apos;SimpleCount1&apos;&#x0D;&#x0A;- Original project: &apos;ELTE Java Konyv 5.0 feladat 073  - Szinkronizacio 1&apos;&#x0D;&#x0A;- Original element: &apos;teszt.Main&apos;&#x0D;&#x0A;- Renamed element: &apos;teszt.SimpleCount1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Main&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;teszt{Main.java[Main" matchStrategy="1" name="SimpleCount1" qualified="false" references="true" similarDeclarations="false" stamp="1587482675929" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;words&apos; in &apos;lamda.Lamda.main(...)&apos; to &apos;people&apos;&#x0D;&#x0A;- Original project: &apos;Java Kozephalado 12 - Lamda Sort Comparator&apos;&#x0D;&#x0A;- Original element: &apos;lamda.Lamda.main(String[]).words&apos;&#x0D;&#x0A;- Renamed element: &apos;words&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;words&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;lamda{Lamda.java[Lamda~main~\[QString;@words!121!166!139!143!QArrayList\&lt;QString;&gt;;!0!false" name="people" references="true" stamp="1573055472952" version="1.0"/>
+</session>

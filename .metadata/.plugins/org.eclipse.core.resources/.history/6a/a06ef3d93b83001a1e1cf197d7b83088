@@ -1,0 +1,31 @@
+package teszt;
+
+import java.text.DateFormat;
+import java.util.Date;
+import java.util.Timer;
+import java.util.TimerTask;
+
+public class Main extends TimerTask{
+	@Override
+	public void run() {
+		System.out.println(DateFormat.getTimeInstance().format(new Date()));
+		
+	}
+	public static void main(String[] args) {
+		
+		Timer timer =new Timer();
+		
+		timer.scheduleAtFixedRate(new Main(),0 , 1000);
+		
+		try {
+			Thread.sleep(15000);
+		}catch(InterruptedException e) {
+			timer.cancel();
+		}
+
+	
+	}
+
+	
+
+}

@@ -1,0 +1,29 @@
+package teszt;
+
+import java.io.UnsupportedEncodingException;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+import java.util.Scanner;
+
+public class Solution {
+
+	public static void main(String[] args) throws UnsupportedEncodingException, NoSuchAlgorithmException {
+		
+		MessageDigest md = MessageDigest.getInstance("MD5");
+
+		Scanner scan = new Scanner(System.in);
+		
+		String input = scan.next();
+		
+		byte[] byteOfInput = input.getBytes("UTF-8");
+		
+		byte[] byteOfOutput = md.digest(byteOfInput);
+		
+		for(byte b : byteOfOutput)
+		System.out.print(b);
+		
+
+
+	}
+
+}
