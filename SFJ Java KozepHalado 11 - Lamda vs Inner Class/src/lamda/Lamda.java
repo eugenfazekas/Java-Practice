@@ -7,8 +7,8 @@ public class Lamda {
 	}
 	
 	public void observe() {
-		letsDoThis(2,a -> {
-			System.out.println("A Erteke:" +a);
+		letsDoThis(2,(c) -> {
+			System.out.println("O Erteke:" +c);
 			System.out.println(this);
 		});
 	}

@@ -23,4 +23,6 @@
 <fullyQualifiedTypeName name="java.sql.SQLException"/>
 <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
