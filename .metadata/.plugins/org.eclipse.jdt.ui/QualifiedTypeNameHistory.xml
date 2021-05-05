@@ -24,6 +24,11 @@
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="x_test.ColdDrink"/>
+<fullyQualifiedTypeName name="java.awt.Rectangle"/>
+<fullyQualifiedTypeName name="RoundedShapeFactory"/>
+<fullyQualifiedTypeName name="ShapeFactory"/>
+<fullyQualifiedTypeName name="AbstractFactory"/>
+<fullyQualifiedTypeName name="FactoryProducer"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
