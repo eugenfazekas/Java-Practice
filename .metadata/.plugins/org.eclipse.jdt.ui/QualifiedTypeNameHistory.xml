@@ -31,4 +31,7 @@
 <fullyQualifiedTypeName name="FactoryProducer"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.awt.Shape"/>
+<fullyQualifiedTypeName name="shape.Shape"/>
+<fullyQualifiedTypeName name="ShapeDecorator.RedShapeDecorator"/>
 </qualifiedTypeNameHistroy>
