@@ -26,7 +26,6 @@
 <fullyQualifiedTypeName name="x_test.ColdDrink"/>
 <fullyQualifiedTypeName name="java.awt.Rectangle"/>
 <fullyQualifiedTypeName name="RoundedShapeFactory"/>
-<fullyQualifiedTypeName name="ShapeFactory"/>
 <fullyQualifiedTypeName name="AbstractFactory"/>
 <fullyQualifiedTypeName name="FactoryProducer"/>
 <fullyQualifiedTypeName name="java.util.List"/>
@@ -34,4 +33,12 @@
 <fullyQualifiedTypeName name="java.awt.Shape"/>
 <fullyQualifiedTypeName name="shape.Shape"/>
 <fullyQualifiedTypeName name="ShapeDecorator.RedShapeDecorator"/>
+<fullyQualifiedTypeName name="SingleObject"/>
+<fullyQualifiedTypeName name="ShapeMaker"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="ShapeFactory"/>
+<fullyQualifiedTypeName name="ErrorLogger"/>
+<fullyQualifiedTypeName name="FileLogger"/>
+<fullyQualifiedTypeName name="ConsoleLogger"/>
+<fullyQualifiedTypeName name="AbstractLogger"/>
 </qualifiedTypeNameHistroy>
