@@ -28,8 +28,6 @@
 <fullyQualifiedTypeName name="RoundedShapeFactory"/>
 <fullyQualifiedTypeName name="AbstractFactory"/>
 <fullyQualifiedTypeName name="FactoryProducer"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.awt.Shape"/>
 <fullyQualifiedTypeName name="shape.Shape"/>
 <fullyQualifiedTypeName name="ShapeDecorator.RedShapeDecorator"/>
@@ -41,4 +39,8 @@
 <fullyQualifiedTypeName name="FileLogger"/>
 <fullyQualifiedTypeName name="ConsoleLogger"/>
 <fullyQualifiedTypeName name="AbstractLogger"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="SellStock"/>
+<fullyQualifiedTypeName name="TerminalExpression"/>
 </qualifiedTypeNameHistroy>
