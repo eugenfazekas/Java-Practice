@@ -39,10 +39,21 @@
 <fullyQualifiedTypeName name="FileLogger"/>
 <fullyQualifiedTypeName name="ConsoleLogger"/>
 <fullyQualifiedTypeName name="AbstractLogger"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="SellStock"/>
 <fullyQualifiedTypeName name="TerminalExpression"/>
 <fullyQualifiedTypeName name="AndExpression"/>
 <fullyQualifiedTypeName name="Expression"/>
+<fullyQualifiedTypeName name="NameRepository"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="Memento"/>
+<fullyQualifiedTypeName name="Originator"/>
+<fullyQualifiedTypeName name="CareTaker"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="Subject"/>
+<fullyQualifiedTypeName name="HexaObserver"/>
+<fullyQualifiedTypeName name="OctalObserver"/>
+<fullyQualifiedTypeName name="BinaryObserver"/>
+<fullyQualifiedTypeName name="StartState"/>
+<fullyQualifiedTypeName name="StopState"/>
 </qualifiedTypeNameHistroy>
