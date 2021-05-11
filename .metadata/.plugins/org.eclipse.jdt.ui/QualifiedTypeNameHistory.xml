@@ -43,4 +43,6 @@
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="SellStock"/>
 <fullyQualifiedTypeName name="TerminalExpression"/>
+<fullyQualifiedTypeName name="AndExpression"/>
+<fullyQualifiedTypeName name="Expression"/>
 </qualifiedTypeNameHistroy>
