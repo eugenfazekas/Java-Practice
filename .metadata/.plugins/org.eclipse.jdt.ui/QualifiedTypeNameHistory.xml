@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="main.test.EredetiTIro.Teglalap"/>
-<fullyQualifiedTypeName name="java.io.ObjectStreamField"/>
-<fullyQualifiedTypeName name="java.io.IOException"/>
-<fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
-<fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
-<fullyQualifiedTypeName name="java.sql.DriverManager"/>
-<fullyQualifiedTypeName name="java.sql.DatabaseMetaData"/>
-<fullyQualifiedTypeName name="java.sql.ResultSet"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.sql.ResultSetMetaData"/>
-<fullyQualifiedTypeName name="java.sql.Connection"/>
-<fullyQualifiedTypeName name="java.sql.Statement"/>
-<fullyQualifiedTypeName name="java.sql.BatchUpdateException"/>
-<fullyQualifiedTypeName name="java.sql.SQLException"/>
 <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
@@ -60,4 +46,18 @@
 <fullyQualifiedTypeName name="Game"/>
 <fullyQualifiedTypeName name="Cricket"/>
 <fullyQualifiedTypeName name="Football"/>
+<fullyQualifiedTypeName name="Student"/>
+<fullyQualifiedTypeName name="StudentView"/>
+<fullyQualifiedTypeName name="StudentController"/>
+<fullyQualifiedTypeName name="EJBService"/>
+<fullyQualifiedTypeName name="JMSService"/>
+<fullyQualifiedTypeName name="BussinessLookUp"/>
+<fullyQualifiedTypeName name="BussinessService"/>
+<fullyQualifiedTypeName name="BussinessDelegate"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="Client"/>
+<fullyQualifiedTypeName name="DependentObject1"/>
+<fullyQualifiedTypeName name="DependentObject2"/>
+<fullyQualifiedTypeName name="CoarseGrainedObject"/>
+<fullyQualifiedTypeName name="CompositeEntity"/>
 </qualifiedTypeNameHistroy>
