@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.math.BigInteger"/>
-<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
-<fullyQualifiedTypeName name="test.Teglalap"/>
-<fullyQualifiedTypeName name="testupgrade1.FejlesztettIro.Teglalap"/>
-<fullyQualifiedTypeName name="main.test.Teglalap"/>
-<fullyQualifiedTypeName name="main.upgraded.FejlesztettIro.Teglalap"/>
 <fullyQualifiedTypeName name="main.test.EredetiTIro.Teglalap"/>
 <fullyQualifiedTypeName name="java.io.ObjectStreamField"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
@@ -56,4 +50,14 @@
 <fullyQualifiedTypeName name="BinaryObserver"/>
 <fullyQualifiedTypeName name="StartState"/>
 <fullyQualifiedTypeName name="StopState"/>
+<fullyQualifiedTypeName name="RealCustomer"/>
+<fullyQualifiedTypeName name="NullCustomer"/>
+<fullyQualifiedTypeName name="AbstractCustomer"/>
+<fullyQualifiedTypeName name="OperationAdd"/>
+<fullyQualifiedTypeName name="OperationSubtrat"/>
+<fullyQualifiedTypeName name="Context"/>
+<fullyQualifiedTypeName name="OperationMultiply"/>
+<fullyQualifiedTypeName name="Game"/>
+<fullyQualifiedTypeName name="Cricket"/>
+<fullyQualifiedTypeName name="Football"/>
 </qualifiedTypeNameHistroy>
