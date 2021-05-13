@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-<fullyQualifiedTypeName name="java.util.Map"/>
-<fullyQualifiedTypeName name="java.util.Arrays"/>
-<fullyQualifiedTypeName name="x_test.ColdDrink"/>
 <fullyQualifiedTypeName name="java.awt.Rectangle"/>
 <fullyQualifiedTypeName name="RoundedShapeFactory"/>
 <fullyQualifiedTypeName name="AbstractFactory"/>
@@ -47,7 +43,6 @@
 <fullyQualifiedTypeName name="Cricket"/>
 <fullyQualifiedTypeName name="Football"/>
 <fullyQualifiedTypeName name="Student"/>
-<fullyQualifiedTypeName name="StudentView"/>
 <fullyQualifiedTypeName name="StudentController"/>
 <fullyQualifiedTypeName name="EJBService"/>
 <fullyQualifiedTypeName name="JMSService"/>
@@ -60,4 +55,9 @@
 <fullyQualifiedTypeName name="CoarseGrainedObject"/>
 <fullyQualifiedTypeName name="CompositeEntity"/>
 <fullyQualifiedTypeName name="Client"/>
+<fullyQualifiedTypeName name="StudentDao"/>
+<fullyQualifiedTypeName name="StudentView"/>
+<fullyQualifiedTypeName name="HomeView"/>
+<fullyQualifiedTypeName name="Dispatcher"/>
+<fullyQualifiedTypeName name="FrontController"/>
 </qualifiedTypeNameHistroy>
