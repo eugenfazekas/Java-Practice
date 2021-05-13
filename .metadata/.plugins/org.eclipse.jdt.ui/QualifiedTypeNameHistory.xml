@@ -55,9 +55,9 @@
 <fullyQualifiedTypeName name="BussinessService"/>
 <fullyQualifiedTypeName name="BussinessDelegate"/>
 <fullyQualifiedTypeName name="java.lang.Class"/>
-<fullyQualifiedTypeName name="Client"/>
 <fullyQualifiedTypeName name="DependentObject1"/>
 <fullyQualifiedTypeName name="DependentObject2"/>
 <fullyQualifiedTypeName name="CoarseGrainedObject"/>
 <fullyQualifiedTypeName name="CompositeEntity"/>
+<fullyQualifiedTypeName name="Client"/>
 </qualifiedTypeNameHistroy>
