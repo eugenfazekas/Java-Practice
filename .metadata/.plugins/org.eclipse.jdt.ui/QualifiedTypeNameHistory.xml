@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.awt.Shape"/>
-<fullyQualifiedTypeName name="shape.Shape"/>
 <fullyQualifiedTypeName name="ShapeDecorator.RedShapeDecorator"/>
 <fullyQualifiedTypeName name="SingleObject"/>
 <fullyQualifiedTypeName name="ShapeMaker"/>
@@ -53,11 +51,13 @@
 <fullyQualifiedTypeName name="HomeView"/>
 <fullyQualifiedTypeName name="Dispatcher"/>
 <fullyQualifiedTypeName name="FrontController"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="FilterChain"/>
 <fullyQualifiedTypeName name="FilterManager"/>
 <fullyQualifiedTypeName name="Target"/>
 <fullyQualifiedTypeName name="DebugFilter"/>
 <fullyQualifiedTypeName name="Client"/>
+<fullyQualifiedTypeName name="Service1"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="InitialContext"/>
 </qualifiedTypeNameHistroy>
