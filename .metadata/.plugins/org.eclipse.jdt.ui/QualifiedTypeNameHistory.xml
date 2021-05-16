@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="ShapeDecorator.RedShapeDecorator"/>
-<fullyQualifiedTypeName name="SingleObject"/>
-<fullyQualifiedTypeName name="ShapeMaker"/>
-<fullyQualifiedTypeName name="java.util.HashMap"/>
-<fullyQualifiedTypeName name="ShapeFactory"/>
 <fullyQualifiedTypeName name="ErrorLogger"/>
 <fullyQualifiedTypeName name="FileLogger"/>
 <fullyQualifiedTypeName name="ConsoleLogger"/>
@@ -57,7 +52,12 @@
 <fullyQualifiedTypeName name="DebugFilter"/>
 <fullyQualifiedTypeName name="Client"/>
 <fullyQualifiedTypeName name="Service1"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="InitialContext"/>
+<fullyQualifiedTypeName name="Container"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
