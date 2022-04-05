@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=Own drafts and exercises 31 - Design Pattern 4  Bridge Pattern/src&lt;{DrawAPI.java[DrawAPI" modifiers="513" timestamp="1620241007183"/>
-<typeInfo handle="=Own drafts and exercises 31 - Design Pattern 5 Filter Pattern/src&lt;{Criteria.java[Criteria" modifiers="513" timestamp="1620242872768"/>
-<typeInfo handle="=Own drafts and exercises 36 - Design Pattern 10 Proxy Pattern/src&lt;{Image.java[Image" modifiers="513" timestamp="1620582918372"/>
-<typeInfo handle="=Own drafts and exercises 38 - Design Pattern 12 Command Pattern/src&lt;{Order.java[Order" modifiers="513" timestamp="1620598613142"/>
-<typeInfo handle="=Own drafts and exercises 39 - Design Pattern 13 Interpreter Pattern/src&lt;{Expression.java[Expression" modifiers="513" timestamp="1620660505001"/>
-<typeInfo handle="=Own drafts and exercises 40 - Design Pattern 14 Iterator Pattern/src&lt;{Container.java[Container" modifiers="513" timestamp="1620746203300"/>
-<typeInfo handle="=Own drafts and exercises 40 - Design Pattern 14 Iterator Pattern/src&lt;{Iterator.java[Iterator" modifiers="513" timestamp="1620746154604"/>
-<typeInfo handle="=Own drafts and exercises 46 - Design Pattern 20 Strategy Pattern/src&lt;{Strategy.java[Strategy" modifiers="513" timestamp="1620815365705"/>
-<typeInfo handle="=Own drafts and exercises 48 - Design Pattern 22 Visitor Pattern/src&lt;{ComputerPartVisitor.java[ComputerPartVisitor" modifiers="513" timestamp="1620818778954"/>
-<typeInfo handle="=Own drafts and exercises 48 - Design Pattern 22 Visitor Pattern/src&lt;{ComputerPart.java[ComputerPart" modifiers="513" timestamp="1620818368880"/>
-<typeInfo handle="=Own drafts and exercises 54 - Design Pattern 27 Intercepting Filter Pattern/src&lt;{Filter.java[Filter" modifiers="513" timestamp="1621001299985"/>
-<typeInfo handle="=Own drafts and exercises 55 - Design Pattern 28 Service Locator Pattern/src&lt;{Service.java[Service" modifiers="513" timestamp="1621012198744"/>
-<typeInfo handle="=Own drafts and exercises 57 - Generics 1/src&lt;{X.java[X" modifiers="513" timestamp="1621114505193"/>
+    <typeInfo handle="=Own drafts and exercises 31 - Design Pattern 4  Bridge Pattern/src&lt;{DrawAPI.java[DrawAPI" modifiers="513" timestamp="1620241007183"/>
+    <typeInfo handle="=Own drafts and exercises 31 - Design Pattern 5 Filter Pattern/src&lt;{Criteria.java[Criteria" modifiers="513" timestamp="1620242872768"/>
+    <typeInfo handle="=Own drafts and exercises 36 - Design Pattern 10 Proxy Pattern/src&lt;{Image.java[Image" modifiers="513" timestamp="1620582918372"/>
+    <typeInfo handle="=Own drafts and exercises 38 - Design Pattern 12 Command Pattern/src&lt;{Order.java[Order" modifiers="513" timestamp="1620598613142"/>
+    <typeInfo handle="=Own drafts and exercises 39 - Design Pattern 13 Interpreter Pattern/src&lt;{Expression.java[Expression" modifiers="513" timestamp="1620660505001"/>
+    <typeInfo handle="=Own drafts and exercises 40 - Design Pattern 14 Iterator Pattern/src&lt;{Container.java[Container" modifiers="513" timestamp="1620746203300"/>
+    <typeInfo handle="=Own drafts and exercises 40 - Design Pattern 14 Iterator Pattern/src&lt;{Iterator.java[Iterator" modifiers="513" timestamp="1620746154604"/>
+    <typeInfo handle="=Own drafts and exercises 46 - Design Pattern 20 Strategy Pattern/src&lt;{Strategy.java[Strategy" modifiers="513" timestamp="1620815365705"/>
+    <typeInfo handle="=Own drafts and exercises 48 - Design Pattern 22 Visitor Pattern/src&lt;{ComputerPartVisitor.java[ComputerPartVisitor" modifiers="513" timestamp="1620818778954"/>
+    <typeInfo handle="=Own drafts and exercises 48 - Design Pattern 22 Visitor Pattern/src&lt;{ComputerPart.java[ComputerPart" modifiers="513" timestamp="1620818368880"/>
+    <typeInfo handle="=Own drafts and exercises 54 - Design Pattern 27 Intercepting Filter Pattern/src&lt;{Filter.java[Filter" modifiers="513" timestamp="1621001299985"/>
+    <typeInfo handle="=Own drafts and exercises 55 - Design Pattern 28 Service Locator Pattern/src&lt;{Service.java[Service" modifiers="513" timestamp="1621012198744"/>
+    <typeInfo handle="=Own drafts and exercises 57 - Generics 1/src&lt;{X.java[X" modifiers="513" timestamp="1621114505193"/>
 </typeInfoHistroy>
